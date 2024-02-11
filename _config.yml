@@ -1,23 +1,20 @@
-title: "Luba Nelson" # your name (or website title) here
-logo: "/images/IMG_1144.heic" # your photo (or logo) here
+title: "Lubah Nelson" # your name (or website title) here
+logo: "/images/IMG_1144.jpg" # your photo (or logo) here
 description: >
   profile:
-    introduction: "My journey in data science and machine learning blends technical rigor with the exploration of diverse domains, anchored in the universal languages of mathematics and coding. This balance fuels my curiosity and drives my ambition to develop intelligent systems that enhance quality of life."
-    background:
+    introduction: 
+    Welcome! My name is Lubah Nelson, a data scientist on a mission to harness the power of machine learning to unlock actionable insights and drive innovations that significantly improve our lives. My academic journey began with a degree in Data Science from UC Berkeley, where I explored the vast possibilities of using mathematics and coding to unravel complex data challenges. Eager to dive deeper into machine learning, I am currently advancing my studies in Computer Science at Washington State University. Here, I am at the forefront of leveraging cutting edge machine learning technology to redefine what's possible, dedicating my research focus to developing intelligent systems that not only address complex issues but also improve human experiences.
+    Background:
       education:
-        - degree: "Associate in Mathematics"
-          institution: "Berkeley City College"
         - degree: "BSc in Data Science"
           institution: "UC Berkeley"
         - degree: "Master's in Computer Science (ongoing)"
           institution: "Washington State University"
           focus: "Embedded Machine Learning Technology"
-    aspirations:
-      statement: "I am captivated by the potential of ML to improve our lives through human-centric intelligent systems. Pursuing advanced studies in computer science equips me with the skills to innovate in R&D, aiming to merge technical expertise with impactful applications."
-    skills:
+    Skills:
       technical: ["Mathematics", "Coding", "Data Analysis", "Machine Learning"]
-      tools: ["Python", "R", "SQL", "TensorFlow", "Keras"]
-    projects_highlight: "My portfolio showcases projects from sentiment analysis to optimizing ML models for low-energy devices, reflecting my journey towards creating technology that resonates with and enriches human experiences."
+      tools: ["Python", "R", "SQL", "PyTorch", "Keras"]
+   
   # Removed the <br> elements and fixed the indentation for proper YAML formatting
   additional_description: "For more insights into my professional journey and to connect, please visit my LinkedIn profile."
   linkedin_url: "https://www.linkedin.com/in/example/" # Your LinkedIn profile URL
