@@ -1,30 +1,29 @@
-title: Luba Nelson # your name (or website title) here
+title: "Luba Nelson" # your name (or website title) here
 logo: "/images/IMG_1144.heic" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-profile:
-introduction: "My journey in data science and machine learning blends technical rigor with the exploration of diverse domains, anchored in the universal languages of mathematics and coding. This balance fuels my curiosity and drives my ambition to develop intelligent systems that enhance quality of life."
-  background:
-    education:
-      - degree: "Associate in Mathematics"
-        institution: "Berkeley City College"
-      - degree: "BSc in Data Science"
-        institution: "UC Berkeley"
-      - degree: "Master's in Computer Science (ongoing)"
-        institution: "Washington State University"
-        focus: "Embedded Machine Learning Technology"
-  aspirations:
-    statement: "I am captivated by the potential of ML to improve our lives through human-centric intelligent systems. Pursuing advanced studies in computer science equips me with the skills to innovate in R&D, aiming to merge technical expertise with impactful applications."
-  skills:
-    technical: ["Mathematics", "Coding", "Data Analysis", "Machine Learning"]
-    tools: ["Python", "R", "SQL", "TensorFlow", "Keras"]
-  projects_highlight: "My portfolio showcases projects from sentiment analysis to optimizing ML models for low-energy devices, reflecting my journey towards creating technology that resonates with and enriches human experiences."
+description: >
+  profile:
+    introduction: "My journey in data science and machine learning blends technical rigor with the exploration of diverse domains, anchored in the universal languages of mathematics and coding. This balance fuels my curiosity and drives my ambition to develop intelligent systems that enhance quality of life."
+    background:
+      education:
+        - degree: "Associate in Mathematics"
+          institution: "Berkeley City College"
+        - degree: "BSc in Data Science"
+          institution: "UC Berkeley"
+        - degree: "Master's in Computer Science (ongoing)"
+          institution: "Washington State University"
+          focus: "Embedded Machine Learning Technology"
+    aspirations:
+      statement: "I am captivated by the potential of ML to improve our lives through human-centric intelligent systems. Pursuing advanced studies in computer science equips me with the skills to innovate in R&D, aiming to merge technical expertise with impactful applications."
+    skills:
+      technical: ["Mathematics", "Coding", "Data Analysis", "Machine Learning"]
+      tools: ["Python", "R", "SQL", "TensorFlow", "Keras"]
+    projects_highlight: "My portfolio showcases projects from sentiment analysis to optimizing ML models for low-energy devices, reflecting my journey towards creating technology that resonates with and enriches human experiences."
+  # Removed the <br> elements and fixed the indentation for proper YAML formatting
+  additional_description: "For more insights into my professional journey and to connect, please visit my LinkedIn profile."
+  linkedin_url: "https://www.linkedin.com/in/example/" # Your LinkedIn profile URL
 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
